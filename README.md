@@ -1,5 +1,6 @@
 # AI-Induced False Memories in Simulated Witness Interviews with Large Language Models
 Samantha Chan* (MIT Media Lab), Pat Pataranutaporn* (MIT Media Lab), Aditya Suri* (MIT Media Lab), Wazeer Zulfikar (MIT Media Lab), Pattie Maes (MIT Media Lab), and Elizabeth Loftus (University of California, Irvine)
+
 *Equal contributions
 
 ## Corresponding Authors
