@@ -19,11 +19,11 @@ This paper investigates AI's impact on false memories --- recollections of event
 │   └── Code/
 ├── Prototype/
 │   ├── Survey/
-│   ├── Video/
 │   ├── Static_Chatbot/
 │   └── Generative_Chatbot/
 └── Supplementary/
-    └── Survey/
+│   ├── Survey/
+│   └── Video/
 ```
 
 
