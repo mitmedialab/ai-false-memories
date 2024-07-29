@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Chat interface</title>
+
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link href="https://nzbin.github.io/three-dots/css/three-dots.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+	<section class="section">
+		<div class="container">
+			<div>
+				<center>
+					<project-header>Virtual Session with AI Police</project-header>
+				</center>
+			</div>
+			<div class="columns is-2">
+				<div class="column is-one-third">
+
+					<div class="box" id="chat">
+						<img src="image/police2.png">
+					</div>
+
+
+				</div>
+				<div class="column is-two-third">
+
+					<div class="box" id="chat">
+						<div id="chat_UI">
+							<div id="ChatFlow">
+
+								<div class="media" style="border-top: 0px; display:none;" id="user_template">
+
+									<div class="media-content">
+
+										<div class="box" id="chatbox_user" style=" margin-left: 200px;">
+											<div id="display_message">hi</div>
+										</div>
+
+
+									</div>
+									<div class="media-right">
+										<figure class="image is-96x96">
+											<img class="is-rounded" src="image/user.png" alt="Placeholder image">
+										</figure>
+									</div>
+								</div>
+
+								<div class="media column" style="border-top: 0px; display:none;" id="other_template">
+									<div class="media-left">
+										<figure class="image is-96x96">
+											<img class="is-rounded" src="image/police2_avatar.png"
+												alt="Placeholder image">
+										</figure>
+									</div>
+
+									<div class="media-content">
+										<div class="box" id="chatbox_other" style="margin-right: 200px;">
+											<div id="loading_dots">
+												<center>
+													<img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif"
+														style="width:40px;">
+												</center>
+											</div>
+											<div id="display_message" style="display: none">hi</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+							<div class="block"></div>
+							<div id="UserType" class="block">
+								<article class="media">
+									<figure class="media-left">
+										<p class="image is-64x64">
+											<img class="is-rounded" src="image/user.png">
+										</p>
+									</figure>
+									<div class="media-content">
+										<div class="field">
+											<p class="control">
+												<textarea class="textarea" id="UserInput_Textarea"
+													placeholder="Add a comment..."></textarea>
+											</p>
+										</div>
+										<nav class="level">
+											<div class="level-left">
+												<div class="level-item">
+													<a class="button" onclick="user_type()">Submit</a>
+
+												</div>
+											</div>
+											<div class="level-right">
+												<div class="level-item">
+												</div>
+											</div>
+										</nav>
+									</div>
+								</article>
+							</div>
+						</div>
+					</div>
+
+
+	</section>
+	</div>
+
+	</div>
+	</div>
+	</section>
+	<!-- partial -->
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js'></script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/tween.js/16.0.0/Tween.min.js'></script>
+
+	<script src="src/studykit_post2sheet.js"></script>
+	<script src="src/studykit_qualtrics_integration.js"></script>
+	<script src="js/chat.js"></script>
+	<script src="js/question_control.js"></script>
+
+</body>
+
+</html>
