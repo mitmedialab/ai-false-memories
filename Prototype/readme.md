@@ -1,4 +1,4 @@
-prototypes:
-survey
-pre-scripted
-generative
+Prototypes:
+- Survey
+- Pre-Scripted_Chatbot
+- Generative_Chatbot
