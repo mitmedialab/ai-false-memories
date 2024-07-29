@@ -1,0 +1,41 @@
+#ChatFlow {
+    height: 450px;
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+
+
+body {
+    padding: 25px;
+    background-image: url("../image/bg2.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+
+}
+
+
+#chat {}
+
+#chatbox_user {
+    background-color: #dbdbdb;
+
+}
+
+
+
+#chatbox_other {
+    background-color: #b8b8b8;
+}
+
+project-header {
+    font-size: 3em;
+    color: #ffffff;
+    /* 14px/16=0.875em */
+}
