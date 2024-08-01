@@ -31,7 +31,7 @@ This paper investigates AI's impact on false memories --- recollections of event
 
 ### Data
 
-- **Raw**: Original, unprocessed data collected during the study.
+- **Raw**: Original, unprocessed, and de-identified data collected during the study.
 - **Processed**: Cleaned and formatted data used for analysis.
 - **Code**: Scripts and notebooks used for data analysis and visualization.
 
