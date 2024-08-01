@@ -43,7 +43,7 @@ This paper investigates AI's impact on false memories --- recollections of event
 
 ### Supplementary
 - **Survey**: Survey materials and questionnaires used in the study.
-- **Video**: Crime-related video shown to participants at the start of the study.
+- **Video**: Crime-related video shown to participants at the start of the study. Original video: https://www.youtube.com/watch?v=KEITMPG321Y&ab_channel=PennLive.com 
 
 ## Usage
 
