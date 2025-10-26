@@ -44,19 +44,3 @@ This paper investigates AI's impact on false memories --- recollections of event
 ### Supplementary
 - **Survey**: Survey materials and questionnaires used in the study.
 - **Video**: Crime-related video (2:30) from the Sayford Supermarket robbery on April 6, 2019, which was used in the experiment. Original video (4:17): https://www.youtube.com/watch?v=KEITMPG321Y&ab_channel=PennLive.com 
-
-## Usage
-
-[Provide instructions on how to use the code and data in this repository]
-
-## Citation
-
-[Provide the citation for the paper once published]
-
-## License
-
-[Specify the license under which this research and its materials are released]
-
-## Acknowledgements
-
-[Include any acknowledgements, funding sources, or other credits]
